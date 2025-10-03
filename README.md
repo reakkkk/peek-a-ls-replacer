@@ -31,7 +31,7 @@ A modern, colorful terminal tool for Linux that displays files and directories m
 
 ```bash
 # Download script
-curl -o peek https://raw.githubusercontent.com/reakkkk/peek-a-ls-replacer/main/peek
+curl -o peek https://raw.githubusercontent.com/reakkkk/peek-a-ls-replacer/main/peek.sh
 
 # Make executable and install
 chmod +x peek
