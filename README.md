@@ -2,9 +2,9 @@
 
 A modern, colorful terminal tool for Linux that displays files and directories much nicer than ls!
 
-![peek demo](screenshots/demo1.png)
-![peek grid view](screenshots/demo2.png)
-![peek preview](screenshots/demo3.png)
+![peek demo]([screenshots/demo1.png](https://img.shields.io/badge/version-2.0-blue))
+![peek grid view]([screenshots/demo2.png](https://img.shields.io/badge/license-MIT-green))
+![peek preview]([screenshots/demo3.png](https://img.shields.io/badge/platform-Linux-orange))
 
 ## ✨ Features
 
